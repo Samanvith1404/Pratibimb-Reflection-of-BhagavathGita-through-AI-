@@ -1,0 +1,3 @@
+weaviate-client
+groq
+python-dotenv
