@@ -1,4 +1,4 @@
-# Talk to Lord Krishna
+# Talk to Sri Krishna
 
 Talk to Krishna is a narrative-based AI system that frames human dilemmas using the Bhagavad Gita as contextual grounding — without advice, prescriptions, or religious authority.
 
